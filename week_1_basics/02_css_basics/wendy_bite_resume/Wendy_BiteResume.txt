@@ -1,4 +1,5 @@
-
+<! DOCTYPE html>
+<html>
 <!-- References
 
 *	Andrew Gold, Lyrics On Demand. Thank You for Being a Friend. Retrieved September 22, 2013, from: http://www.lyricsondemand.com/tvthemes/
@@ -48,5 +49,6 @@ Education
 General Assembly WDI — 2013
 Queens College B.A. 1923
 Brooklyn Etiquette School For Girls 1920(Honors)
+</html>
 
 
