@@ -1,0 +1,30 @@
+body{
+	font-family: 'lato', sans-serif;
+}
+
+a {
+	text-decoration: none;
+
+
+}
+
+a:hover {
+	color: #A00;
+}
+
+h1,h1>a {
+	color: #D00;
+
+}
+nav >a{
+	color:#EEE;
+}
+h3{
+	color:#DDD;
+}
+h4, h4 >a {
+	color: #A00;
+	}
+h2, h2 >a{
+	color: #444;
+}
