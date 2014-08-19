@@ -1,6 +1,9 @@
 body {
 	background-color: #FFFFCC;
 }
+ul {
+	list-style-type: disc;
+}
 h1 {
 	color: ##663300;
 	text-align: center;
